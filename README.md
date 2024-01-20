@@ -11,3 +11,7 @@
 +) **Location Updates:** Tiếp tục nhận thông tin cập nhật vị trí khi ở chế độ nền.<br><br>
 +) **Voice over IP:** Gửi và nhận giọng nói qua internet.<br><br>
 +) 
+
+
+[Background Modes Tutorial: Getting Started](https://www.kodeco.com/34269507-background-modes-tutorial-getting-started) <br><br>
+[Configuring background execution modes](https://developer.apple.com/documentation/xcode/configuring-background-execution-modes) <br><br>
