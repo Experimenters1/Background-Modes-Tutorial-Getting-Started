@@ -10,7 +10,13 @@
 +) **Audio, AirPlay, and Picture in Picture:** Phát âm thanh và video trong khi ứng dụng chạy ở chế độ nền.<br><br>
 +) **Location Updates:** Tiếp tục nhận thông tin cập nhật vị trí khi ở chế độ nền.<br><br>
 +) **Voice over IP:** Gửi và nhận giọng nói qua internet.<br><br>
-+) 
++) **External accessory communication:**  Giao tiếp qua cổng Lightning với các phụ kiện bên ngoài.<br><br>
++) **Using Bluetooth LE accessories:** Giao tiếp với phụ kiện Bluetooth LE khi ở chế độ nền.<br><br>
++) **Acting as a Bluetooth LE accessory:** Cho phép ứng dụng cung cấp thông tin Bluetooth LE cho một phụ kiện.<br><br>
++) **Background fetch:** Thực hiện làm mới dữ liệu.<br><br>
++) **Remote notitifications:** Gửi và nhận thông báo từ xa.<br><br>
++) **Background processing:** Thực hiện các quy trình quan trọng dài hơn.
+
 
 
 [Background Modes Tutorial: Getting Started](https://www.kodeco.com/34269507-background-modes-tutorial-getting-started) <br><br>
