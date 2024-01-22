@@ -21,3 +21,4 @@
 
 [Background Modes Tutorial: Getting Started](https://www.kodeco.com/34269507-background-modes-tutorial-getting-started) <br><br>
 [Configuring background execution modes](https://developer.apple.com/documentation/xcode/configuring-background-execution-modes) <br><br>
+[background process ios](https://www.google.com/search?q=background+process+ios&sca_esv=600355914&sxsrf=ACQVn0_raNdjrBOXRGbCjLPffvWcQmIFDA%3A1705912909451&ei=TSquZbSNG5Xj2roPucmKyAk&udm=&oq=background+process+ios&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmJhY2tncm91bmQgcHJvY2VzcyBpb3MqAggAMggQABiABBjLATIIEAAYHhgNGAoyCBAAGB4YDRgKMgoQABgeGA0YDxgKMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSLGCAVDuBliUcHACeACQAQCYAZYBoAH4DKoBBDEzLjS4AQPIAQD4AQHCAgcQIRgKGKABwgIEECMYJ8ICCRAAGIAEGA0YE8ICBxAAGIAEGA3CAgYQABgeGA3CAgoQABiABBjLARgKwgIFEAAYgATCAggQABgWGB4YD-IDBBgBIEGIBgE&sclient=gws-wiz-serp) <br><br>
