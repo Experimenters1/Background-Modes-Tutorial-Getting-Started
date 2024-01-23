@@ -7,7 +7,7 @@
 +)**Background Fetch(Tìm nạp nền):**  Thực hiện cập nhật nền theo lịch do iOS xác định.<br><br>
 
 [Background Tasks in iOS (Swift & Xcode) – Beginners](https://www.youtube.com/watch?v=Lb7OShyNSdM&t=149s) <br><br>
-[Swift Background Fetch Tutorial](https://www.youtube.com/watch?v=hJw1UHgsyH8) <br><br>
+
 [iOS Core Location Basics and Background Mode](https://www.youtube.com/watch?v=uDjSPVhm2iU) <br><br>
 
 ## **Tổng quan nhanh về các chế độ nền cơ bản có sẵn trong iOS:** <br><br>
