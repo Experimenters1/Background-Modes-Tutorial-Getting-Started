@@ -8,6 +8,7 @@
 
 [Background Tasks in iOS (Swift & Xcode) – Beginners](https://www.youtube.com/watch?v=Lb7OShyNSdM&t=149s) <br><br>
 [Swift Background Fetch Tutorial](https://www.youtube.com/watch?v=hJw1UHgsyH8) <br><br>
+[iOS Core Location Basics and Background Mode](https://www.youtube.com/watch?v=uDjSPVhm2iU) <br><br>
 
 ## **Tổng quan nhanh về các chế độ nền cơ bản có sẵn trong iOS:** <br><br>
 +) **Audio, AirPlay, and Picture in Picture:** Phát âm thanh và video trong khi ứng dụng chạy ở chế độ nền.<br><br>
@@ -24,4 +25,4 @@
 
 [Background Modes Tutorial: Getting Started](https://www.kodeco.com/34269507-background-modes-tutorial-getting-started) <br><br>
 [Configuring background execution modes](https://developer.apple.com/documentation/xcode/configuring-background-execution-modes) <br><br>
-[background process ios](https://www.google.com/search?q=background+process+ios&sca_esv=600355914&sxsrf=ACQVn0_raNdjrBOXRGbCjLPffvWcQmIFDA%3A1705912909451&ei=TSquZbSNG5Xj2roPucmKyAk&udm=&oq=background+process+ios&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmJhY2tncm91bmQgcHJvY2VzcyBpb3MqAggAMggQABiABBjLATIIEAAYHhgNGAoyCBAAGB4YDRgKMgoQABgeGA0YDxgKMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSLGCAVDuBliUcHACeACQAQCYAZYBoAH4DKoBBDEzLjS4AQPIAQD4AQHCAgcQIRgKGKABwgIEECMYJ8ICCRAAGIAEGA0YE8ICBxAAGIAEGA3CAgYQABgeGA3CAgoQABiABBjLARgKwgIFEAAYgATCAggQABgWGB4YD-IDBBgBIEGIBgE&sclient=gws-wiz-serp) <br><br>
+[background processing ios swift 5](https://www.google.com/search?q=background+processing+ios+swift+5&sca_esv=600614933&sxsrf=ACQVn08AT5L4dpQOhYHgtIrMnqtcOVAA2A%3A1705979074604&ei=wiyvZfTBJOSh1e8Pvt63qAE&udm=&ved=0ahUKEwj0qvGlw_KDAxXkUPUHHT7vDRUQ4dUDCBA&uact=5&oq=background+processing+ios+swift+5&gs_lp=Egxnd3Mtd2l6LXNlcnAiIWJhY2tncm91bmQgcHJvY2Vzc2luZyBpb3Mgc3dpZnQgNTIFECEYoAEyBRAhGKABSJoOUMQDWPALcAF4AZABAJgBiwGgAekBqgEDMS4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBhAAGBYYHuIDBBgAIEGIBgGQBgg&sclient=gws-wiz-serp#ip=1) <br><br>
