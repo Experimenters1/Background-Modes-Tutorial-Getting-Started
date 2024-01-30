@@ -10,6 +10,9 @@
 
 [Background Fetch in Swift 3](https://www.youtube.com/watch?v=lIhJKiE450o) <br><br>
 
+[Best practice: iOS background processing - Background App Refresh Task](https://uynguyen.github.io/2020/09/26/Best-practice-iOS-background-processing-Background-App-Refresh-Task/) <br><br>
+
+
 ## **Tổng quan nhanh về các chế độ nền cơ bản có sẵn trong iOS:** <br><br>
 +) **Audio, AirPlay, and Picture in Picture:** Phát âm thanh và video trong khi ứng dụng chạy ở chế độ nền.<br><br>
 +) **Location Updates:** Tiếp tục nhận thông tin cập nhật vị trí khi ở chế độ nền.<br><br>
